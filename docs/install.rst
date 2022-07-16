@@ -10,6 +10,8 @@ Detailed Guides
 
 - Ubuntu and Nginx: `websiteforstudents.com <https://websiteforstudents.com/install-invoice-ninja-on-ubuntu-16-04-18-04-lts-with-nginx-mariadb-and-php-7-2-fpm/>`_
 
+- Ubuntu Tutorials: `conectandonet.com.br <https://conectandonet.com.br/blog/category/tutoriais/ubuntu/>`_
+
 - Ubuntu and Apache: `websiteforstudents.com <https://websiteforstudents.com/install-invoiceninja-on-ubuntu-16-04-18-04-with-apache2-mariadb-and-php-7-2//>`_
 
 - Debian and Nginx: `rosehosting.com <https://www.rosehosting.com/blog/how-to-install-invoice-ninja-on-debian-9/>`_
